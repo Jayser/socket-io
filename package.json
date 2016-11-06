@@ -1,0 +1,24 @@
+{
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "4.14.0",
+    "socket.io": "1.5.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayser/socket-io.git"
+  },
+  "author": "sergii azizov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayser/socket-io/issues"
+  },
+  "homepage": "https://github.com/Jayser/socket-io#readme"
+}
